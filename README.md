@@ -147,6 +147,6 @@ Analyst-side work: SQL exception reporting, ERP data integrity, and the unglamor
 
 ## 📫 Get in touch
 
-- 🌐 [gbadedata.com](https://gbadedata.com) — built with React + Vite on AWS Amplify ([source](https://github.com/gbadedata/gbadedata-web))
+- 🌐 [gbadedata.com](https://gbadedata.com) — built with React + Vite, deployed on GitHub Pages ([source](https://github.com/gbadedata/gbadedata-web))
 - 💼 [LinkedIn](https://www.linkedin.com/in/oluwagbade-odimayo-)
 - ✉️ [oluwagbadeodimayo@gmail.com](mailto:oluwagbadeodimayo@gmail.com)
