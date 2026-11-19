@@ -10,7 +10,7 @@ The question running through all of it decides whether a system can be trusted i
 - A deployment that can't roll back in seconds isn't a deployment. It's a hope.
 - A model reporting 95% confidence should be right 95% of the time, and should abstain when it can't be.
 
-📍 **Based in the UK** · open to data engineering, ML engineering, analytics and bioinformatics roles<br>
+📍 **Based in the UK** · open to data science, data engineering, ML engineering, analytics and bioinformatics roles<br>
 🔗 **[gbadedata.com](https://gbadedata.com)** for case studies, architecture and engineering evidence
 
 ---
