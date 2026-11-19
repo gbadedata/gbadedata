@@ -1,6 +1,6 @@
 # Hi, I'm Oluwagbade Odimayo (OJ) 👋
 
-**Data & ML engineer.** I build data pipelines, cloud platforms and LLM agents that get tested before they get trusted.
+**Data scientist & ML engineer.** I build data pipelines, cloud platforms and LLM agents that get tested before they get trusted.
 
 I came to data from the lab, with an MSc in Plant Genetics and Molecular Biology (Ibadan) and then an MSc in Applied Data Science (Essex). Biology taught me that a result is only as good as the evidence behind it. So my engineering leans on validation, provenance and testing, and my recent repos say plainly what has been checked and what hasn't. I've also worked as a domain-expert AI evaluator and reviewer, grading model outputs against expert rubrics and quality-checking other evaluators' assessments.
 
