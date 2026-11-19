@@ -2,7 +2,7 @@
 
 **Data Scientist · Data Engineer · ML Engineer.** I build the pipelines, the models and the systems that serve them, and test each one before it's trusted.
 
-I work in Python, SQL and C# across AWS, Azure and GCP. My work leans on validation, provenance and testing, and my recent repos state plainly what has been checked and what hasn't. I've also worked as a domain-expert AI evaluator and reviewer, grading model outputs against expert rubrics and quality-checking other evaluators' assessments.
+I work across data engineering, data science, analytics, ML engineering, DevOps and bioinformatics, using Python, SQL and C# on AWS, Azure and GCP. I've also worked as an AI evaluator and reviewer, grading model outputs against expert rubrics.
 
 The question running through all of it decides whether a system can be trusted in production: *is it correct, is it validated, and does it fail safely?*
 
